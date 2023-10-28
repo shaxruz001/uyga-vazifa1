@@ -1,0 +1,20 @@
+.BMW {
+    text-align: center;
+}
+.margin {
+    margin: 60px 60px 60px 60px ;
+    box-shadow: 20px 10px 10px red;
+}
+
+.todo {
+    margin: 60px 60px 60px 60px ;
+
+    box-shadow: 10px 10px 0px 0px blue;
+
+}
+.MERS {
+    margin: 60px 60px 60px 60px ;
+    box-shadow: 8px 8px 30px 23px #31f904;
+
+}
+
